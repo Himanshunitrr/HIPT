@@ -12,3 +12,6 @@ torchvision
 lifelines
 scikit-survival
 scikit-learn
+
+requests
+scikit-image
